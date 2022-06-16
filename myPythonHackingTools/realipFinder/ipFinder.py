@@ -10,7 +10,7 @@ import pyfiglet
 
 banner = pyfiglet.figlet_format("Real IP Finder", font = "slant")
 cprint(banner, 'green', attrs=['blink'])
-cprint("                                                 by Dr.404\n",'green',attrs=['blink'])
+cprint("                                                 by D47K\n",'green',attrs=['blink'])
 
 # print()
 # For colored Output
